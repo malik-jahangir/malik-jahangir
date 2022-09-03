@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Front-end Developer
 - 👀 I’m interested in JAM Stack
-- 🌱 I’m currently learning React
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 Reach me: [twitter.com/jahangirawan_](https://twitter.com/jahangirawan_)
+- 🌱 Learning all about **Open Source**
+- 📫 Reach me: **[Twitter](https://twitter.com/jahangirawan_)
 
 <!---
 malik-jahangir/malik-jahangir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
